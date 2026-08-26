@@ -4,14 +4,20 @@ package school.sptech;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+        // uma nova instancia do Bilhete Unico
+        BilheteUnico b01 = new BilheteUnico();
+        b01.titular = "Joao";
+        b01.codigo = "0001";
+        b01.cor = "Branco";
+        b01.isIdoso = false;
+        b01.isEstudante = true;
+        b01.isPCD = false;
+        b01.saldo = 0.0;
+
+        b01.recarregar(10.0);
+
+        b01.passar();
+        b01.printar();
     }
 }

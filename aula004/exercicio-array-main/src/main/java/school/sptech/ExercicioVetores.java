@@ -72,7 +72,7 @@ public class ExercicioVetores {
         for (int i = 0; i < vetor.length; i++) {
             Integer numFaltante = alvo - vetor[i];
             if (hashMap.containsKey(numFaltante)) {
-                return new Integer[]{hashMap.get(numFaltante), i};
+                return new Integer[]{hashMap.get(numFaltante), i};  
             }
             hashMap.put(vetor[i], i);
         }
