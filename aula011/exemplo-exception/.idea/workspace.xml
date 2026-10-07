@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="923043e2-bb91-4a9e-aa66-9afd1769c9e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../aula006/exemplo-encapsulamento/src/main/java/school/sptech/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula006/exemplo-encapsulamento/src/main/java/school/sptech/teste/TesteEncapsulamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula008/exemplo-relacionamento/src/main/java/school/sptech/musica/Musica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula008/exemplo-relacionamento/src/main/java/school/sptech/musica/Playlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula008/exemplo-relacionamento/src/main/java/school/sptech/musica/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula009/exemplo-heranca/src/main/java/school/sptech/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula009/exemplo-heranca/src/main/java/school/sptech/AlunoPos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula009/exemplo-heranca/src/main/java/school/sptech/Faculdade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemplo-exception-maven/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemplo-exception-maven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemplo-exception-maven/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemplo-exception-maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemplo-exception-maven/src/main/java/school/sptech/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemplo-exception-maven/src/test/java/school/sptech/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula005/exemplo-objeto/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../aula005/exemplo-objeto/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula005/introducao-poo/introducao-poo-main/src/main/java/school/sptech/ex1/Bolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../aula005/introducao-poo/introducao-poo-main/src/main/java/school/sptech/ex1/Bolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula005/introducao-poo/introducao-poo-main/src/main/java/school/sptech/ex2/Encomenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../aula005/introducao-poo/introducao-poo-main/src/main/java/school/sptech/ex2/Encomenda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula005/introducao-poo/introducao-poo-main/src/main/java/school/sptech/ex3/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../aula005/introducao-poo/introducao-poo-main/src/main/java/school/sptech/ex3/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula005/introducao-poo/introducao-poo-main/src/main/java/school/sptech/ex4/Turma.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../aula005/introducao-poo/introducao-poo-main/src/main/java/school/sptech/ex4/Turma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula005/introducao-poo/introducao-poo-main/src/main/java/school/sptech/ex5/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../aula005/introducao-poo/introducao-poo-main/src/main/java/school/sptech/ex5/Pokemon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula005/introducao-poo/introducao-poo-main/src/main/java/school/sptech/ex6/ListaDeCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../aula005/introducao-poo/introducao-poo-main/src/main/java/school/sptech/ex6/ListaDeCompras.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KMobsQ26i6Crvw3diBcRKS6qLY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/joaor/SPTech/LP/exercicios/aula011",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="923043e2-bb91-4a9e-aa66-9afd1769c9e7" name="Changes" comment="" />
+      <created>1791376873379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791376873379</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
